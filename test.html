@@ -1,0 +1,150 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/main.css"/>
+    <style type="text/css">
+        body{padding-top: 50px;}
+    </style>
+    <title>Bootstrap测试页面</title>
+</head>
+<body>
+<h1>HelloWord</h1>
+<hr/>
+<div class="container">
+    <!--下拉菜单-->
+    <div class="dropdown">
+        <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+            食物
+            <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+            <li class="dropdown-header">水果</li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">苹果</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">香蕉</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">梨子</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">桃子</a></li>
+            <li role="presentation" class="divider"></li>
+            <li class="dropdown-header">蔬菜</li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">芹菜</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">萝卜</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">茄子</a></li>
+            <li class="divider"></li>
+            <li class="dropdown-header">主食</li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">米饭</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">馒头</a></li>
+            <li role="presentation"><a role="menuitem" tabindex="-1" href="#">面条</a></li>
+        </ul>
+    </div>
+    <!--按钮组-->
+    <div class="btn-group">
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-zoom-in"></span></button>
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-zoom-out"></span></button>
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-download"></span></button>
+        <button type="button" class="btn btn-default"><span class="glyphicon glyphicon-upload"></span></button>
+    </div>
+    <!--按钮嵌套分组-->
+    <div class="btn-group">
+        <button class="btn btn-default" type="button">首页</button>
+        <div class="btn-group dropup">
+            <button class="btn btn-default dropdown-toggle" data-toggle="dropdown" type="button">
+                产品展示<span class="caret"></span>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a href="#">收割机</a></li>
+                <li><a href="#">电动机</a></li>
+                <li><a href="#">拖拉机</a></li>
+                <li><a href="#">电动车</a></li>
+            </ul>
+        </div>
+        <button class="btn btn-default" type="button">案例分析</button>
+        <button class="btn btn-default" type="button">联系我们</button>
+        <button class="btn btn-default " type="button">关于我们</button>
+    </div>
+
+    <!--导航-->
+    <!--tab型导航-->
+    <ul class="nav nav-tabs">
+        <li class="active"><a href="##">产品介绍</a></li>
+        <li><a href="##">规格参数</a></li>
+        <li><a href="##">商品价格</a></li>
+        <li><a href="##">售后保障</a></li>
+        <li><a href="##">Responsive</a></li>
+    </ul>
+    <!--胶囊型导航-->
+    <div>
+        <ul class="nav nav-pills">
+            <li class="active"><a href="##">产品介绍</a></li>
+            <li><a href="##">规格参数</a></li>
+            <li class="disabled"><a href="##">商品评价</a></li>
+            <li><a href="##">售后保障</a></li>
+        </ul>
+    </div>
+    <!--面包屑导航-->
+    <div>
+        <ol class="breadcrumb">
+            <li><a href="#">首页</a></li>
+            <li><a href="#">名师简介</a></li>
+            <li class="active">大漠</li>
+        </ol>
+    </div>
+    <!--导航条-->
+    <!--导航条状态及二级菜单 navbar-inversei表示为反色显示-->
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+        <div class="navbar-header">
+            <!-- .navbar-toggle样式用于toggle收缩的内容，即nav-collapse collapse样式所在元素 -->
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+                <span class="sr-only">Toggle Navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <!-- 确保无论是宽屏还是窄屏，navbar-brand都显示 -->
+            <a href="##" class="navbar-brand">慕课网</a>
+        </div>
+        <div class="collapse navbar-collapse navbar-responsive-collapse">
+            <ul class="nav navbar-nav">
+                <li class="active"><a href="##">网站首页</a></li>
+                <li class=""><a href="##">名师介绍 <span class="label label-success ">new</span></a></li>
+                <li><a href="##">成功案例<span class="badge">23</a></li>
+                <li class="dropdown">
+                    <a href="##" class="dropdown-toggle" data-toggle="dropdown">关于我们<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="##">公司简介</a></li>
+                        <li class="disabled"><a href="##">企业文化</a></li>
+                        <li><a href="##">组织结构</a></li>
+                        <li><a href="##">客户服务</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <!--导航栏中的表单-->
+            <form action="#" class="navbar-form navbar-right" role="search">
+                <div class="form-group">
+                    <input type="text" class="form-control" placeholder="请输入关键字"/>
+                </div>
+                <button type="submit" class="btn btn-default">搜索</button>
+            </form>
+        </div>
+    </div>
+
+    <!--分页导航-->
+    <ul class="pagination pagination">
+        <li><a href="#">&laquo;第一页</a></li>
+        <li><a href="#">11</a></li>
+        <li><a href="#">12</a></li>
+        <li class="active"><a href="#">13</a></li>
+        <li><a href="#">14</a></li>
+        <li><a href="#">15</a></li>
+        <li class="disabled"><a href="#">最后一页&raquo;</a></li>
+    </ul>
+
+</div>
+
+<!--引入的js-->
+<script src="js/jquery.js"></script>
+<script src="js/bootstrap.min.js"></script>
+</body>
+</html>
