@@ -23,19 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="radius.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/radius.html">
+      <file leaf-file-name="form-radio.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/form-radio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="39" selection-start="1320" selection-end="1320" vertical-scroll-proportion="-19.678572" vertical-offset="0" max-vertical-offset="988">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="radius.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/radius.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="25" selection-start="1646" selection-end="1646" vertical-scroll-proportion="0.5256975" vertical-offset="345" max-vertical-offset="1026">
+            <state line="57" column="41" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.7308782" vertical-offset="567" max-vertical-offset="1463">
               <folding />
             </state>
           </provider>
@@ -51,10 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/setHomeSetFav.js" />
-        <option value="$PROJECT_DIR$/../现代企业网/css/main.css" />
-        <option value="$PROJECT_DIR$/../现代企业网/index.html" />
-        <option value="$PROJECT_DIR$/404.html" />
         <option value="$PROJECT_DIR$/newslist.html" />
         <option value="$PROJECT_DIR$/home.html" />
         <option value="$PROJECT_DIR$/news.html" />
@@ -67,6 +54,10 @@
         <option value="$PROJECT_DIR$/test.html" />
         <option value="$PROJECT_DIR$/radius.html" />
         <option value="$PROJECT_DIR$/css/radius.css" />
+        <option value="$PROJECT_DIR$/floattest.html" />
+        <option value="$PROJECT_DIR$/from-radio.html" />
+        <option value="$PROJECT_DIR$/css/public.css" />
+        <option value="$PROJECT_DIR$/form-radio.html" />
       </list>
     </option>
   </component>
@@ -74,7 +65,7 @@
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1456" />
-    <option name="height" value="876" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -121,52 +112,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="radius" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -178,22 +123,30 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../现代企业网/index.html" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap\images\form" />
+      <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap\css" />
       <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap\images\radius" />
       <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap\images" />
       <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap" />
-      <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap\images\404" />
-      <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap\js" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Users\shaoxiao\WebstormProjects\bootstrap" />
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -202,14 +155,6 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
-      <method />
-    </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
@@ -272,14 +217,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1456" height="916" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17642908" sideWeight="0.67128986" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.17642908" sideWeight="0.67128986" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32871014" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -306,26 +251,9 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/ad2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/newslist.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="109" column="76" selection-start="4578" selection-end="4578" vertical-scroll-proportion="0.0" vertical-offset="1824" max-vertical-offset="3496" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="12" selection-start="986" selection-end="986" vertical-scroll-proportion="0.0" vertical-offset="418" max-vertical-offset="3439" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="17" selection-start="0" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6593">
-          <folding />
-        </state>
+        <state line="0" column="17" selection-start="0" selection-end="18" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6593" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap.css">
@@ -348,32 +276,19 @@
         <state line="12" column="23" selection-start="783" selection-end="783" vertical-scroll-proportion="0.33480176" vertical-offset="0" max-vertical-offset="1748" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootsrtap-index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="509" selection-end="509" vertical-scroll-proportion="0.3138138" vertical-offset="133" max-vertical-offset="8170">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="26" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="3344">
-          <folding />
-        </state>
+        <state line="21" column="26" selection-start="854" selection-end="854" vertical-scroll-proportion="0.0" vertical-offset="399" max-vertical-offset="3344" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spite.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="12" selection-start="911" selection-end="911" vertical-scroll-proportion="0.45645645" vertical-offset="399" max-vertical-offset="1520">
-          <folding />
-        </state>
+        <state line="37" column="12" selection-start="911" selection-end="911" vertical-scroll-proportion="0.45645645" vertical-offset="399" max-vertical-offset="1520" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="17" selection-start="731" selection-end="731" vertical-scroll-proportion="0.5990991" vertical-offset="0" max-vertical-offset="2945">
-          <folding />
-        </state>
+        <state line="21" column="17" selection-start="731" selection-end="731" vertical-scroll-proportion="0.5990991" vertical-offset="0" max-vertical-offset="2945" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/radius/l_top_radius.gif">
@@ -383,21 +298,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/home.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="22" selection-start="144" selection-end="171" vertical-scroll-proportion="0.11411411" vertical-offset="0" max-vertical-offset="4332">
-          <folding />
-        </state>
+        <state line="4" column="22" selection-start="144" selection-end="171" vertical-scroll-proportion="0.11411411" vertical-offset="0" max-vertical-offset="4332" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/radius.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="39" selection-start="1320" selection-end="1320" vertical-scroll-proportion="-19.678572" vertical-offset="0" max-vertical-offset="988">
+        <state line="11" column="17" selection-start="412" selection-end="412" vertical-scroll-proportion="0.296034" vertical-offset="0" max-vertical-offset="988">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/radius.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="25" selection-start="1646" selection-end="1646" vertical-scroll-proportion="0.5256975" vertical-offset="345" max-vertical-offset="1026">
+        <state line="10" column="0" selection-start="182" selection-end="182" vertical-scroll-proportion="0.25885558" vertical-offset="0" max-vertical-offset="4161">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/public.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="48" selection-end="48" vertical-scroll-proportion="0.07765668" vertical-offset="0" max-vertical-offset="734">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floattest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="29" selection-start="705" selection-end="812" vertical-scroll-proportion="0.5694051" vertical-offset="35" max-vertical-offset="1178">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootsrtap-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="26" selection-start="712" selection-end="712" vertical-scroll-proportion="-5.67847" vertical-offset="4579" max-vertical-offset="8170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/form-radio.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="57" column="41" selection-start="1978" selection-end="1978" vertical-scroll-proportion="0.7308782" vertical-offset="567" max-vertical-offset="1463">
           <folding />
         </state>
       </provider>
